@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Xandermar LLC",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -34,7 +34,14 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 12,
     "versionPublish": "4.7.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "https://www.xandermar.com",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
